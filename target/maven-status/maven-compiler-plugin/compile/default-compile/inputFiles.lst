@@ -1,0 +1,11 @@
+C:\Projects\git_project_microservices\accounts\src\main\java\com\eazybytes\accounts\AccountsApplication.java
+C:\Projects\git_project_microservices\accounts\src\main\java\com\eazybytes\accounts\controller\AccountsController.java
+C:\Projects\git_project_microservices\accounts\src\main\java\com\eazybytes\accounts\dto\AccountsDTO.java
+C:\Projects\git_project_microservices\accounts\src\main\java\com\eazybytes\accounts\dto\CustomerDTO.java
+C:\Projects\git_project_microservices\accounts\src\main\java\com\eazybytes\accounts\entity\Accounts.java
+C:\Projects\git_project_microservices\accounts\src\main\java\com\eazybytes\accounts\entity\BaseEntity.java
+C:\Projects\git_project_microservices\accounts\src\main\java\com\eazybytes\accounts\entity\Customer.java
+C:\Projects\git_project_microservices\accounts\src\main\java\com\eazybytes\accounts\repository\AccountsRepository.java
+C:\Projects\git_project_microservices\accounts\src\main\java\com\eazybytes\accounts\repository\CustomerRepository.java
+C:\Projects\git_project_microservices\accounts\src\main\java\com\eazybytes\accounts\service\AccountService.java
+C:\Projects\git_project_microservices\accounts\src\main\java\com\eazybytes\accounts\service\AccountsServiceImpl.java

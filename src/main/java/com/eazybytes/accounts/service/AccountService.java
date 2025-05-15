@@ -8,4 +8,5 @@ import org.springframework.stereotype.Service;
 public interface AccountService {
     String createAccount(AccountsDTO accountsDTO);
 
+    AccountsDTO getAccountData();
 }

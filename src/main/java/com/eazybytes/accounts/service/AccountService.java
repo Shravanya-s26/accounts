@@ -9,4 +9,6 @@ public interface AccountService {
     String createAccount(AccountsDTO accountsDTO);
 
     AccountsDTO getAccountData();
+
+    String deleteAccountData(Long accountID);
 }

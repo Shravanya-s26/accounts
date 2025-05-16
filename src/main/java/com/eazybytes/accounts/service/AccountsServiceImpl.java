@@ -38,4 +38,10 @@ public class AccountsServiceImpl implements AccountService {
         //listOfAllData.get(0);
         return accountsDTO;
     }
+
+    @Override
+    public String deleteAccountData(Long accountID) {
+        accountsRepository.deleteById(accountID);
+        return "";
+    }
 }
